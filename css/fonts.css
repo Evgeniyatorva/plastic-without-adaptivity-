@@ -1,0 +1,44 @@
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"Rubik";
+	src:url("../fonts/rubik-regular/Rubik-Regular.eot?") format("eot"),
+		url("../fonts/rubik-regular/Rubik-Regular.woff") format("woff"),
+		url("../fonts/rubik-regular/Rubik-Regular.ttf") format("truetype"),
+		url("../fonts/rubik-regular/Rubik-Regular.svg#Rubik-Regular") format("svg");
+		font-weight:normal;
+		font-style:normal;
+	}
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"Rubik Black";
+	src:url("../fonts/rubik-black/Rubik-Black.eot?") format("eot"),
+		url("../fonts/rubik-black/Rubik-Black.woff") format("woff"),
+		url("../fonts/rubik-black/Rubik-Black.ttf") format("truetype"),
+		url("../fonts/rubik-black/Rubik-Black.svg#Rubik-Black") format("svg");
+		font-weight:normal;
+		font-style:normal;
+	}
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"Rubik Bold";
+	src:url("../fonts/rubik-bold/Rubik-Bold.eot?") format("eot"),
+		url("../fonts/rubik-bold/Rubik-Bold.woff") format("woff"),
+		url("../fonts/rubik-bold/Rubik-Bold.ttf") format("truetype"),
+		url("../fonts/rubik-bold/Rubik-Bold.svg#Rubik-Bold") format("svg");
+		font-weight:normal;
+		font-style:normal;
+	}
+
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"Rubik Medium";
+	src:url("../fonts/rubik-medium/Rubik-Medium.eot?") format("eot"),
+		url("../fonts/rubik-medium/Rubik-Medium.woff") format("woff"),
+		url("../fonts/rubik-medium/Rubik-Medium.ttf") format("truetype"),
+		url("../fonts/rubik-medium/Rubik-Medium.svg#Rubik-Medium") format("svg");
+		font-weight:normal;
+		font-style:normal;
+	}
+

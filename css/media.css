@@ -1,0 +1,25 @@
+@media (min-width: 768px) and (max-width: 1200px) {
+  .wrapper .header__top {
+    text-align: center; }
+    .wrapper .header__top p {
+      margin-top: 0px; }
+    .wrapper .header__top a {
+      padding: 3px 10px; }
+  .wrapper .get {
+    -webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+            clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%); }
+  .wrapper .order {
+    margin-top: -90px; }
+    .wrapper .order__form input {
+      margin-top: 10px; }
+  .wrapper .value {
+    margin-top: -40px; }
+  .wrapper .partners {
+    padding-bottom: 50px; }
+    .wrapper .partners__content p {
+      margin-top: 10px; }
+  .wrapper .glazing {
+    margin-top: -20px;
+    -webkit-background-size: 150% 150%;
+            background-size: 150%;
+    min-height: 500px; } }
